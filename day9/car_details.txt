@@ -1,0 +1,12 @@
++ The car details are as follows : 
+ Car Brand : tata
+ Car Model : curvv
+ Car varient : petrol
+ Launch year : 0
+offer Price: Rs, 6421576
+Car has these features:
+	1.hi
+	2.hlo
+	3.wrd
+	4.hru
+-----------------------------------
